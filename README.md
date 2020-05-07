@@ -12,19 +12,14 @@ You can find the original code without solutions in the original [Udacity SageMa
  This project assumes some familiarity with SageMaker, the IMDB Sentiment Analysis using XGBoost mini-project (which can be found in the original repository) should provide enough background.
 
 
-## Setup instructions
-Please see the [original README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks). For the solutions only clone this repository:
-
 ```
 cd SageMaker
 git clone https://github.com/hjlopes/sagemaker-sentiment-analysis
 exit
 ```
 
-## Web app final result
+## Final result
 
 The final project will be executed in a simple html page which can be deployed anywhere. 
-
-You will see the following:
 
 ![Web app example](./webapp.gif) 
